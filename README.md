@@ -9,6 +9,8 @@
 ### 问题
 目前已知在win下 JetBrains的产品中不能显示
 
+自sublime text3 3170版本以后，空格显示为两个的情况被修复
+
 
 
 ### 预览
@@ -17,7 +19,6 @@
 
 ![](https://github.com/eceilx/Source-Han-Sans-Monaco/blob/master/preview/%E5%AF%B9%E9%BD%90.png)
 
-终于满足了强迫症
 
 - 未调整
 
