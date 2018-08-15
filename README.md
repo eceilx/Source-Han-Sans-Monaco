@@ -17,9 +17,9 @@
 
 - 调整（中文和2个英文字符等宽）
 
-![](https://github.com/eceilx/Source-Han-Sans-Monaco/blob/master/preview/%E5%AF%B9%E9%BD%90.png)
+![](https://github.com/eceilx/Source-Han-Sans-Monaco/blob/master/%E5%AF%B9%E9%BD%90.png)
 
 
 - 未调整
 
-![](https://github.com/eceilx/Source-Han-Sans-Monaco/blob/master/preview/%E6%9C%AA%E5%AF%B9%E9%BD%90.png)
+![](https://github.com/eceilx/Source-Han-Sans-Monaco/blob/master/%E6%9C%AA%E5%AF%B9%E9%BD%90.png)
