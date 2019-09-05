@@ -6,10 +6,6 @@
 
 提供 ***未调整版*** 和 ***调整版***
 
-### 问题
-目前已知在win下 JetBrains的产品中不能显示
-
-自sublime text3 3170版本以后，空格显示为两个的情况被修复
 
 ### 更新
 `adjusted-rm-lgt-f`分支去除了字母f相关的**ligature**(连字特性)，否则在Editor/IDE/其他中即使关闭了ligature，也会显示为连字，严重影响观感
